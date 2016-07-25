@@ -1,5 +1,5 @@
 function getLunch() {
-  var lunch = ["Rotli", "Tindora Bataka Shak", "Dal", "Bhat"];
+  var lunch = ["Rotli", "Tindora & Bataka Shak", "Dal", "Bhat"];
   return lunch;
 }
 
