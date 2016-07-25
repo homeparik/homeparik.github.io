@@ -11,7 +11,7 @@ function getLunch() {
 }
 
 function getLunchDate() {
-	return date;
+	return lunchDate;
 }
 
 
