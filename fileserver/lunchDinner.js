@@ -1,9 +1,9 @@
-var lunch 					= ["Rotli", "Tindora & Bataka Shak", "Dal", "Bhat"];
+var lunch 					= ["Bhakhri", "Papdi Ringan Tuver Shak", "Dal", "Bhat", "Pulav"];
 var lunchDate 				= "July 26";
 
-var dinner 					= ["Bhakhri", "Brocolli Shak", "Dal", "Bhat"];
+var dinner 					= ["Rotli", "Tindora & Bataka Shak", "Dal", "Bhat"];
 var atulDinnerDate 			= "July 26";
-var everyoneElseDinnerDate 	= "July 27";
+var everyoneElseDinnerDate 	= "July 25";
 
 
 function getLunch() {
