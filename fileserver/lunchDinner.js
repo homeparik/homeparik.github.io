@@ -10,7 +10,7 @@ function getLunch() {
   return lunch;
 }
 
-function lunchDate() {
+function getLunchDate() {
 	var date = "July 26";
 	return 
 }
@@ -20,10 +20,10 @@ function getDinner() {
   return dinner;
 }
 
-function atulDinnerDate() {
+function getAtulDinnerDate() {
 	return atulDinnerDate;
 }
 
-function everyoneElseDinnerDate() {
+function getEveryoneElseDinnerDate() {
 	return everyoneElseDinnerDate;
 }
