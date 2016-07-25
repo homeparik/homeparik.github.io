@@ -11,8 +11,7 @@ function getLunch() {
 }
 
 function getLunchDate() {
-	var date = "July 26";
-	return 
+	return date;
 }
 
 
